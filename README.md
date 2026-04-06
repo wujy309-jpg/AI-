@@ -22,6 +22,16 @@
 
 ## 安装方法
 
-```bash
-git clone https://github.com/你的用户名/ai-text-summarizer.git
-cd ai-text-summarizer
+### 方法1：下载项目
+
+1. 打开项目仓库页面  
+https://github.com/wujy309-jpg/AI
+
+2. 点击绿色 **Code** 按钮
+
+3. 点击 **Download ZIP**
+
+4. 解压文件到电脑
+
+--
+
