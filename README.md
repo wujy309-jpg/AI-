@@ -22,7 +22,7 @@
 
 ## 安装方法
 
-### 方法1：下载项目
+### 下载项目
 
 1. 打开项目仓库页面  
 [https://github.com/wujy309-jpg/AI](https://github.com/wujy309-jpg/AI-.git)
@@ -34,4 +34,10 @@
 4. 解压文件到电脑
 
 --
+
+## 使用方法
+
+1.进入下载好的文件夹后使用shift+右键运行终端
+
+2.输入：python summarizer.py 即可启动
 
