@@ -25,7 +25,7 @@
 ### 方法1：下载项目
 
 1. 打开项目仓库页面  
-https://github.com/wujy309-jpg/AI
+[https://github.com/wujy309-jpg/AI](https://github.com/wujy309-jpg/AI-.git)
 
 2. 点击绿色 **Code** 按钮
 
